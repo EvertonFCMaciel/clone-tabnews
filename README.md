@@ -1,2 +1,2 @@
 # clone-tabnews
-Repositorio para avaliar o curso.dev 
+Repositorio para avaliar o curso.dev
